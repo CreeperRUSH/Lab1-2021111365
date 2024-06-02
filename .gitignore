@@ -1,4 +1,5 @@
 .cache/
+.vscode/
 *.png
 *.txt
 !CMakeLists.txt
