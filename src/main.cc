@@ -12,6 +12,7 @@
 #include <iostream>
 
 // Modify something to create a new commit
+// Another branch test
 
 int
 main (int argc, char **argv)
