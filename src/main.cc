@@ -13,6 +13,7 @@
 
 // Modify something to create a new commit
 // Branch test
+// Another branch test
 
 int
 main (int argc, char **argv)
